@@ -40,7 +40,13 @@ TCL
   - SET TRANSACTION - Change transaction options like isolation level and what rollback segment to use
 
 ## **Compare and contrast SQL databases and Mongo:**
+[![]()]
 
+| Tables        | Mongo         | SQL         |
+| ------------- |:-------------:| -----------:|
+| col 3 is      | right-aligned | $1600       |
+| col 2 is      |          $12  |             |
+| zebra stripes | are neat      |    $1       |
 
 ## Execute SQL through psql or files
 
